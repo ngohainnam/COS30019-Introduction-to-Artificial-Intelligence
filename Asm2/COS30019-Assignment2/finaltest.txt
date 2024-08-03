@@ -1,0 +1,4 @@
+TELL
+NC&(NEW||MP)=>DC; ~DC; NC
+ASK
+~NEW
